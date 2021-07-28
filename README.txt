@@ -9,3 +9,5 @@
 5. Demo Video --> Demo of the app prototype
 
 6. Metadata --> This contains the labels that is used in the app prototype.
+
+7. Screenshots of videos
